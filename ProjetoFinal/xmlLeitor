@@ -1,0 +1,99 @@
+<?xml version="1.0"?><LeitorDAO>
+  <Leitor>
+    <id>0</id>
+    <cpf>222</cpf>
+    <email>gleisso@.com</email>
+    <nome>gleisso</nome>
+    <dataDeNascimento>2</dataDeNascimento>
+    <assinatura>
+      <id>9</id>
+      <tipo>Premium</tipo>
+      <valor>0.0</valor>
+      <aberto>true</aberto>
+      <livros/>
+      <c>0</c>
+    </assinatura>
+  </Leitor>
+  <Leitor>
+    <id>2</id>
+    <cpf>111222</cpf>
+    <email>artu</email>
+    <nome>arthur igor morais</nome>
+    <dataDeNascimento>122112</dataDeNascimento>
+    <assinatura>
+      <id>7</id>
+      <tipo>Premium</tipo>
+      <valor>0.0</valor>
+      <aberto>true</aberto>
+      <livros>
+        <data.models.Qualificacao>
+          <livro>
+            <id>8</id>
+            <titulo>a bela e a fera</titulo>
+            <ISNB>111</ISNB>
+            <edicao>doze</edicao>
+            <autor>victor vitae</autor>
+            <editora>ss</editora>
+            <ano>11</ano>
+            <idioma>portugues br</idioma>
+            <assunto>lindo assunto</assunto>
+            <descricao>digito</descricao>
+            <valor>999.0</valor>
+          </livro>
+          <estado>Lido</estado>
+          <comentario>muito bom gostei muito bom</comentario>
+        </data.models.Qualificacao>
+        <data.models.Qualificacao>
+          <livro>
+            <id>2</id>
+            <titulo>livro lindo</titulo>
+            <ISNB>112</ISNB>
+            <edicao>12</edicao>
+            <autor>vitor</autor>
+            <editora>12</editora>
+            <ano>12</ano>
+            <idioma>12</idioma>
+            <assunto>12</assunto>
+            <descricao>12</descricao>
+            <valor>12.0</valor>
+          </livro>
+          <estado>Em leitura</estado>
+        </data.models.Qualificacao>
+        <data.models.Qualificacao>
+          <livro>
+            <id>4</id>
+            <titulo>asd asd</titulo>
+            <ISNB>333</ISNB>
+            <edicao>333</edicao>
+            <autor>333</autor>
+            <editora>333</editora>
+            <ano>333</ano>
+            <idioma>333</idioma>
+            <assunto>333</assunto>
+            <descricao>333</descricao>
+            <valor>333.0</valor>
+          </livro>
+          <estado>Lido</estado>
+        </data.models.Qualificacao>
+        <data.models.Qualificacao>
+          <livro>
+            <id>10</id>
+            <titulo>tudo sobre voce</titulo>
+            <ISNB>1</ISNB>
+            <edicao>1</edicao>
+            <autor>2</autor>
+            <editora>1</editora>
+            <ano>1</ano>
+            <idioma>1</idioma>
+            <assunto>1</assunto>
+            <descricao>1</descricao>
+            <valor>1.0</valor>
+          </livro>
+          <estado>Abandonado</estado>
+          <comentario>nao gostei</comentario>
+        </data.models.Qualificacao>
+      </livros>
+      <c>0</c>
+    </assinatura>
+  </Leitor>
+</LeitorDAO>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?><AcervoDAO>
+  <b>0</b>
+  <Livro>
+    <id>0</id>
+    <titulo>kkk</titulo>
+    <ISNB>1123432</ISNB>
+    <edicao>fdsf</edicao>
+    <autor>dfsdf</autor>
+    <editora>fdsf</editora>
+    <ano>434</ano>
+    <idioma>fsdf</idioma>
+    <assunto></assunto>
+    <descricao>dfsd</descricao>
+    <valor>999.0</valor>
+  </Livro>
+  <Livro>
+    <id>1</id>
+    <titulo>a bela e a fera</titulo>
+    <ISNB>111</ISNB>
+    <edicao>doze</edicao>
+    <autor>victor vitae</autor>
+    <editora>ss</editora>
+    <ano>11</ano>
+    <idioma>portugues br</idioma>
+    <assunto>lindo assunto</assunto>
+    <descricao>digito</descricao>
+    <valor>999.0</valor>
+  </Livro>
+  <Livro>
+    <id>2</id>
+    <titulo>livro lindo</titulo>
+    <ISNB>112</ISNB>
+    <edicao>12</edicao>
+    <autor>vitor</autor>
+    <editora>12</editora>
+    <ano>12</ano>
+    <idioma>12</idioma>
+    <assunto>12</assunto>
+    <descricao>12</descricao>
+    <valor>12.0</valor>
+  </Livro>
+  <Livro>
+    <id>22</id>
+    <titulo>asd asd</titulo>
+    <ISNB>333</ISNB>
+    <edicao>333</edicao>
+    <autor>333</autor>
+    <editora>333</editora>
+    <ano>333</ano>
+    <idioma>333</idioma>
+    <assunto>333</assunto>
+    <descricao>333</descricao>
+    <valor>333.0</valor>
+  </Livro>
+  <Livro>
+    <id>10</id>
+    <titulo>tudo sobre voce</titulo>
+    <ISNB>1</ISNB>
+    <edicao>1</edicao>
+    <autor>2</autor>
+    <editora>1</editora>
+    <ano>1</ano>
+    <idioma>1</idioma>
+    <assunto>1</assunto>
+    <descricao>1</descricao>
+    <valor>1.0</valor>
+  </Livro>
+</AcervoDAO>
